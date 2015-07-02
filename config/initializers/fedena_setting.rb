@@ -1,6 +1,6 @@
 FEDENA_DEFAULTS = {
   :company_name => 'Aadya',
-  :company_url  => 'http://www.AadyaTechnology.org'
+  :company_url  => 'http://www.AadyaTechnology.com'
 }
 
 USER_SETTINGS = {}
